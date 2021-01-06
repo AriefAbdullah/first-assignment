@@ -1,0 +1,151 @@
+body{
+    margin: 0%;
+    
+}
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 5%;
+    float: left;
+ 
+
+}
+.ab{
+    margin-top: 6%;
+}
+.first-area{
+    width: 100%;
+}
+.second-area{
+    width: 100%;
+    margin: 5px;
+    padding-bottom: 1px;
+}
+section{
+    width: 100%;
+    height: 380px;
+    padding-right: 5px;
+    
+    
+}    
+.orange{
+    color: rgba(211, 9, 184, 0.596);
+}
+img{
+    width: 50%;
+ 
+}
+.button{
+    border-radius: 5px;
+    color: rgba(224, 107, 10, 0.849);
+    margin: 1px 1px;
+    padding: 10px 15px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: radial-gradient(rgba(9, 230, 238, 0.842),rgb(122, 195, 218));
+}
+.third-area{
+    width: 100%;
+    height: 450px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px rgba(204, 181, 181, 0.657);
+    padding-left: 1px;
+   
+}
+.quarter-width img{
+    width: 30%;
+    float: left;
+    padding-top: 60px;
+    margin-left: 30px;
+}
+.quarter-width h2{
+    text-align: center;
+    padding-top: 45px;
+    font-style: italic;
+    color: orange;
+}
+.forth-area {
+    width: 100%;
+    height: 350px;
+    box-shadow: 10px 10px 30px rgba(226, 217, 217, 0.966);
+    padding-left: 1px;
+    padding-top: 10%;
+}
+.shape img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.button2{
+    border-radius: 5px;
+    color: rgba(233, 212, 212, 0.849);
+    margin: 10px 12px;
+    padding: 10px 15px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: radial-gradient(rgba(228, 110, 15, 0.842),rgb(121, 70, 12));
+    position: absolute;
+    display: flex;
+    
+}
+.footer-section{
+    height: 600px;
+    padding-top: 15%;
+}
+.footer-inquiry{
+    display: flex;
+    width: 60%;
+    height: 30%;
+    background-color: #11b6b6a1;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.footer-inquiry h1{
+    margin: 0px;
+    width: 50%;
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(241, 62, 8);
+}
+.footer-inquiry button{
+    margin-left: 20%;
+    width: 20%;
+    height: 55px;
+    margin-top: 65px;
+    background-color: #FE5F64;
+    color: #fff;
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.footer-connected{
+    text-align: center;
+    margin-top: 6%;
+}
+.footer-connected h5{
+    font-size: 20px;
+    margin: 0;
+    padding-top: 50px;
+}
+.footer-connected h2{
+    font-size: 35px;
+}
+.footer-icon img{
+    width: 40px;
+    margin: 5px;
+}
+
+
